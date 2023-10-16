@@ -30,7 +30,10 @@ const Footer = () => {
               Let's collaborate and bring your vision to life.
             </span>
           </p>
-          <a href="https://www.mouadev.vercel.app" className="portfolio-link">
+          <a
+            href="https://www.abderrahmane-metiri.me/"
+            className="portfolio-link"
+          >
             Explore My Portfolio
           </a>
         </div>
